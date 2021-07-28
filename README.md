@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Coursera Test
 
 You can use the [editor on GitHub](https://github.com/harshada-ravi/coursera-test/edit/harshada-main/README.md) to maintain and preview the content for your website in Markdown files.
 
